@@ -3,7 +3,7 @@
 Visual Bukkit Cheatsheet is a collection of examples for the use of different blocks inside of [Visual Bukkit](https://github.com/OfficialDonut/VisualBukkit)
 ---
 # Table of Contents
-## [Section 1. Introduction](https://github.com/WyattWantsToCode/Visual_Bukkit_Cheatsheet/tree/main/section_1_introduction)
+## [Section 1. Introduction](https://github.com/WyattWantsToCode/Visual_Bukkit_Cheatsheet/tree/main/Section%201.%20Introduction)
 * What is Visual Bukkit
 * Common Uses
 * Reading this document
