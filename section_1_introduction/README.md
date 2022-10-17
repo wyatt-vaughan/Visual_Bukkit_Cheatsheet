@@ -1,7 +1,13 @@
 # Section 1. Introductiom
 Welcome to the Visual Bukkit Cheatsheet, if you have any questions/concerns/comments leave it under the Issues tab.
 ## What is Visual Bukkit
-Visual Bukkit is a visual programming language for Bukkit plugins, allowing you to create plugins without knowing Java.
+Visual Bukkit is a visual programming language for Bukkit plugins, allowing you to create plugins without knowing Java. Using code from both Spigot and Custom VB blocks, you can create nearly anything you can dream of. With vibrant colors and quick snapping nodes and blocks, learning to make amazing bukkit plugins is only a couple clicks away.
+
+## Common Uses
+Visual Bukkit can be used to create anything but some things are just easier to find a plugin that already exsists. Visual Bukkit is made for adding small changes to already simple plugins. Some examples of plugins made with VB are...
+1. 
+2.
+3.
 
 ## Reading this document
 As Visual Bukkit changes the UI this section will update how to interpret the rest of the Visual Bukkit Cheatsheet
