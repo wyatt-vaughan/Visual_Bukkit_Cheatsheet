@@ -3,10 +3,10 @@
 Visual Bukkit Cheatsheet is a collection of examples for the use of different blocks inside of [Visual Bukkit](https://github.com/OfficialDonut/VisualBukkit)
 ---
 # Table of Contents
-## Section 1. Introduction
+## [Section 1. Introduction](https://github.com/WyattWantsToCode/Visual_Bukkit_Cheatsheet/tree/main/section_1_introduction)
 * What is Visual Bukkit
+* Common Uses
 * Reading this document
-* Common uses
 *
 ---
 ## Section 2. Plugin Components
